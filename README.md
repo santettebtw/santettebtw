@@ -1,9 +1,10 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?style=for-the-badge&1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!<br>
-I'm <b>Santiago</b>, currently studying software engineering at ETML, <img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="13"/> <b>Lausanne, Switzerland</b>.<br>
+I'm <b>Santiago</b>, currently studying software engineering at HEIG-VD, <img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="13"/> <b>Yverdon-les-Bains, Switzerland</b>.<br>
 Passionated about IT, VR, music and desing, I'm doing my best to stay up to date on those subjects. And I LOVE it!<br> 
-At the moment, I'm working on my ✨portfolio✨ on my freetime.
+I also love working on small optimisations of my workflow on my freetime, checkout my [environment](https://github.com/santettebtw/env).<br><br>
+The things down there are pretty outdated, I'll update them and clean them a bit later. But for now, just know that I'm having a blast with **C**, **bash** and **Go**! 
 
 ## 👨🏻‍💻 Things I code with 
 <p>
